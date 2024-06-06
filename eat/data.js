@@ -251,8 +251,8 @@ var APP_DATA = {
         {
           "yaw": 2.1231075776283648,
           "pitch": 0.3719507095574741,
-          "title": "Title",
-          "text": "Text"
+          "title": "Waku Waku Cafe",
+          "text": "日式洋食的可愛餐廳，<div>雖然主打商品是義大利麵，</div><div>但我特別喜歡它的漢堡和布丁！</div><div>此外，店內位子多，裝潢也可愛，是朋友聚餐的好去處！</div>"
         }
       ]
     },
