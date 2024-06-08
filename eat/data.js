@@ -295,6 +295,8 @@ var APP_DATA = {
           "pitch": 0.40879666906531753,
           "title": "赤丸糰子",
           "text": "是間保留日式復古懷舊風情的日式糰子專賣店，<div>老闆是道地的日本人，</div><div>糰子是現烤的，</div>可以買一串醬油糰子到旁邊的貨店邊吃邊逛！"
+        }
+      ]
     },
     {
       "id": "6-",
@@ -344,10 +346,9 @@ var APP_DATA = {
           "text": "是一間人氣超響的重慶四川小吃店，<div>吃過一次就想一再回訪！</div><div>個人非常推薦他們的酸辣粉！</div>不過因為實在太有名了，所以要吃的話要早點來排隊喔！"
         }
       ]
-        
-      }
+    }
   ],
-  "name": "Project Title",
+  "name": "eat",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
