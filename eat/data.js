@@ -348,7 +348,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "eat",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
